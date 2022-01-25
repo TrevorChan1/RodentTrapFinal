@@ -5,6 +5,7 @@
 #include <ArduinoBLE.h>
 #include <SoftwareSerial.h>
 
+
 TinyGPSPlus gps;
 WiFiClient client;
 SoftwareSerial ss(4,3);
