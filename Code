@@ -16,7 +16,7 @@ char ssid[] = "BU Guest (unencrypted)";
 char password[] = ""; 
 int status = WL_IDLE_STATUS;     // the WiFi radio's status
 char   HOST_NAME[] = "maker.ifttt.com";
-String PATH_NAME = "/trigger/send_notif/with/key/gMCw6J23y2mYwEIomD33cy8ypdoY1fZpHL430lFKvSg"; 
+String PATH_NAME = "/trigger/send_notif/with/key/[ENTER YOUR MAKER IFTTT KEY]"; 
 String userEmail = "finnabouttacatchsomerats@gmail.com";
 
 Servo MyServo;
